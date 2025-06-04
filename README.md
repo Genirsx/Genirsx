@@ -44,6 +44,8 @@ wasm-game-of-life 是一个用 Rust 和 WebAssembly 构建的高性能康威生�
 - wasm-bindgen 实现 Rust 与 JavaScript 的高效互操作
 - 可选集成 React 前端，支持自定义规则和 WebGL 可视化
 
+![Langton's Ant 动画演示](images/LangtonsAntAnimated.gif)
+
 [在线体验 wasm-game-of-life](https://lg.dtsci.cn/)
 
 ---
