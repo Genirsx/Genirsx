@@ -48,6 +48,14 @@ wasm-game-of-life 是一个用 Rust 和 WebAssembly 构建的高性能康威生�
 
 [在线体验 wasm-game-of-life](https://lg.dtsci.cn/)
 
+### walletVote
+walletVote 是一个去中心化的 Web3 数字资产管理平台，专为以太坊及 EVM 兼容链设计。
+- 基于 Vue.js 构建现代化前端，界面友好，交互流畅
+- 深度集成 Web3.js，实现与以太坊区块链的无缝交互
+- 支持多种以太坊资产（ERC-20、ERC-721 等）的安全管理
+- 提供 DApp 直连、资产转账、合约交互等核心功能
+- 注重用户体验与安全性，适合 DeFi 和 NFT 用户
+
 ---
 
 ## 📫 联系方式
