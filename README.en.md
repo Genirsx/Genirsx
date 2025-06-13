@@ -91,7 +91,7 @@ AutoLaunch is a Launchpad platform project based on Hardhat, designed for token 
 - Full-stack development, smooth interaction, complete documentation  
 - Supports various token issuance scenarios, easy for secondary development and reuse  
 
-![PolkaPlay Mini Hack Banner](images/hack.jpg)
+![PolkaPlay Mini Hack Banner](images/Ehack.jpg)
 
 ---
 
