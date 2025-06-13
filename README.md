@@ -1,4 +1,4 @@
-[English Version](./README.en.md) | [中 文](./README.md)
+ [中 文](./README.md) | [English Version](./README.en.md)
 
 
 # Hi there 👋
