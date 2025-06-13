@@ -1,3 +1,6 @@
+[English Version](./README.en.md) | [中 文](./README.md)
+
+
 # Hi there 👋
 
 欢迎来到我的 GitHub 主页！
